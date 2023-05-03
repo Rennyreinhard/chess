@@ -1,0 +1,103 @@
+DOCCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible"content="IE-edge">
+<meta name="viewport"content="width=device-width,initial-scale=1.0">
+<meta name="author"content="renny_josh">
+<link rel="stylesheet"href="Chess.css">
+<title>Chess</title>
+</head>
+<body>
+<h1>Chess</h1>
+<img  src="C:/WEBDATA/chess" alt="chess" style="width:100%">
+<h2 id="tog">White's Turn</h2>
+<ul>
+<div class="div"id="row8">
+<li class="box" id="b801">brook</li>
+<li class="box" id="b802">bknight</li>
+<li class="box" id="b803">bbishop</li>
+<li class="box" id="b804">bqueen</li>
+<li class="box" id="b805">bking</li>
+<li class="box" id="b806">bbishop</li>
+<li class="box" id="b807">bknight</li>
+<li class="box" id="b808">brook</li>
+</div>
+<div class="div"id="row7">
+<li class="box" id="b701">bpawn</li>
+<li class="box" id="b702">bpawn</li>
+<li class="box" id="b703">bpawn</li>
+<li class="box" id="b704">bpawn</li>
+<li class="box" id="b705">bpawn</li>
+<li class="box" id="b706">bpawn</li>
+<li class="box" id="b707">bpawn</li>
+<li class="box" id="b708">bpawn</li>
+</div>
+<div class="div"id="row6">
+<li class="box" id="b601"></li>
+<li class="box" id="b602"></li>
+<li class="box" id="b603"></li>
+<li class="box" id="b604"></li>
+<li class="box" id="b605"></li>
+<li class="box" id="b606"></li>
+<li class="box" id="b607"></li>
+<li class="box" id="b608"></li>
+</div>
+<div class="div"id="row5">
+<li class="box" id="b501"></li>
+<li class="box" id="b502"></li>
+<li class="box" id="b503"></li>
+<li class="box" id="b504"></li>
+<li class="box" id="b505"></li>
+<li class="box" id="b506"></li>
+<li class="box" id="b507"></li>
+<li class="box" id="b508"></li>
+</div>
+<div class="div"id="row4">
+<li class="box" id="b401"></li>
+<li class="box" id="b402"></li>
+<li class="box" id="b403"></li>
+<li class="box" id="b404"></li>
+<li class="box" id="b405"></li>
+<li class="box" id="b406"></li>
+<li class="box" id="b407"></li>
+<li class="box" id="b408"></li>
+</div>
+<div class="div"id="row3">
+<li class="box" id="b301"></li>
+<li class="box" id="b302"></li>
+<li class="box" id="b303"></li>
+<li class="box" id="b304"></li>
+<li class="box" id="b305"></li>
+<li class="box" id="b306"></li>
+<li class="box" id="b307"></li>
+<li class="box" id="b308"></li>
+</div>
+<div class="div"id="row2">
+<li class="box" id="b201">wpawn</li>
+<li class="box" id="b202">wpawn</li>
+<li class="box" id="b203">wpawn</li>
+<li class="box" id="b204">wpawn</li>
+<li class="box" id="b205">wpawn</li>
+<li class="box" id="b206">wpawn</li>
+<li class="box" id="b207">wpawn</li>
+<li class="box" id="b208">wpawn</li>
+</div>
+<div class="div"id="row1">
+<li class="box" id="b101">wrook</li>
+<li class="box" id="b102">wknight</li>
+<li class="box" id="b103">wbishop</li>
+<li class="box" id="b104">wqueen</li>
+<li class="box" id="b105">wking</li>
+<li class="box" id="b106">wbishop</li>
+<li class="box" id="b107">wknight</li>
+<li class="box" id="b108">wrook</li>
+</div>
+</ul>
+<script src="Chess.js></script>
+</body>
+<script>
+
+
+</script>
+</html>
