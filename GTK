@@ -3,7 +3,7 @@ def create_window():
 window = gtk.Window()
 window.set_default_size(700.700)
 window.connect("destroy"gtk.main_quit)
-label = gtk.Label("Innit Vitu ni mingi masaa ni machache...")
+label ("")
 window.add(label)
 label.show()
 window.show()
